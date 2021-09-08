@@ -307,7 +307,7 @@ font-weight: 500;
 }
 .bar .progress-line span::after{
     position: absolute;
-    content: '80%';
+    content: '50%';
     color: #fff;
     background: #000;
     font-size: 12px;
@@ -328,7 +328,7 @@ font-weight: 500;
     content: '60%';
 }
 .progress-line.jqurey span::after{
-    width: '50%';
+    content: '50%';
 }
 /* ------------change your skill bar level from here--------------- */
 
