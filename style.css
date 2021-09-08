@@ -456,6 +456,9 @@ font-weight: 500;
 .about{
     width: 90%;
 }
+.model img{
+    display: none;
+}
 .about-text{
     width: 450px;
 
